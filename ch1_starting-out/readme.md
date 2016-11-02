@@ -1,12 +1,12 @@
 # Chapter 1: Starting Out
 This chapter goes through basic Haskell syntax and introduces:
-* [Functions](## Functions)
-* [Definitions or Names](## Definitions-or-Names)
-* [Lists](## Lists)
-* [Strings](## Strings)
-* [Ranges](## Ranges)
-* [List Comprehensions](## List-Comprehensions)
-* [Tuples](## Tuples)
+* [Functions](#functions)
+* [Definitions or Names](#definitions-or-names)
+* [Lists](#lists)
+* [Strings](#strings)
+* [Ranges](#ranges)
+* [List Comprehensions](#list-comprehensions)
+* [Tuples](#tuples)
 
 ## Basic Syntax
 ```haskell
