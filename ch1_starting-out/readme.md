@@ -1,12 +1,12 @@
 # Chapter 1: Starting Out
 This chapter goes through basic Haskell syntax and introduces:
-* Functions
-* Definitions (or Names)
-* Lists
-* Strings
-* Ranges
-* List Comprehensions
-* Tuples
+* [Functions](## Functions)
+* [Definitions or Names](## Definitions-or-Names)
+* [Lists](## Lists)
+* [Strings](## Strings)
+* [Ranges](## Ranges)
+* [List Comprehensions](## List-Comprehensions)
+* [Tuples](## Tuples)
 
 ## Basic Syntax
 ```haskell
@@ -112,7 +112,7 @@ Within GHCi, we have to use `let` to declare functions
 let doubleMe x = x * 2
 ```
 
-## Definitions (or Names)
+## Definitions or Names
 Functions without parameters are referred to as **definitions** or **names**.
 
 ```haskell
